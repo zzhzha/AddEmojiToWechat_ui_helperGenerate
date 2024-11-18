@@ -2,15 +2,12 @@ import time
 import win32con
 from ui import Win
 from tkinter import *
-from tkinter.ttk import *
 from tkinter import filedialog
 import os
 from PIL import Image
 import shutil
 import uiautomation as auto
 import win32clipboard
-import sys
-import threading
 import keyboard
 
 
